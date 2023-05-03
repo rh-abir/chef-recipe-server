@@ -9,7 +9,9 @@ app.get('/', (req, res) => {
     res.send('hello from my server')
 })
 
-
+app.get('/alldata', (req, res) => {
+    res.send(allData)
+})
 
 
 app.listen(port, () => {
