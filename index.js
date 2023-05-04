@@ -1,9 +1,12 @@
 const express = require("express");
+const cors = require('cors')
 const app = express();
 
 const allData = require("./data/chefsData.json");
 
 const port = 5000;
+
+app.use(cors())
 
 app.get("/", (req, res) => {
   res.send("hello from my server");
