@@ -13,17 +13,17 @@
         {
           "id": 0,
           "name": "meat cooking",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         },
         {
           "id": 1,
           "name": "Chicken Schnitzel",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         },
         {
           "id": 2,
           "name": "Parmesan Chicken Cutlets",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         }
       ]
     },
@@ -43,22 +43,22 @@
         {
           "id": 0,
           "name": "Creamy Scalloped Potatoes",
-          "ingredients ": ["1 1/2 cups heavy cream", "4 medium russet potatoes (about 2 pounds)", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["1 1/2 cups heavy cream", "4 medium russet potatoes (about 2 pounds)", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         },
         {
           "id": 1,
           "name": "Salmon Cakes",
-          "ingredients ": ["Good olive oil", "4 tablespoons unsalted butter", "Flaky sea salt", "3 slices stale bread, crusts removed", "tablespoons olive oil"]
+          "ingredients": ["Good olive oil", "4 tablespoons unsalted butter", "Flaky sea salt", "3 slices stale bread, crusts removed", "tablespoons olive oil"]
         },
         {
           "id": 2,
           "name": "Parmesan Chicken Cutlets",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         },
         {
           "id": 3,
           "name": "Parmesan Chicken Cutlets",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         }
       ],
       "greeting": "Hello, Tracey Obrien! You have 4 unread messages.",
@@ -80,17 +80,17 @@
         {
           "id": 0,
           "name": "Parmesan-Roasted Broccoli",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         },
         {
           "id": 1,
           "name": "Salad-Stuffed Peppers",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         },
         {
           "id": 2,
           "name": "Parmesan Chicken Cutlets",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         }
       ],
       "greeting": "Hello, Tracey Obrien! You have 4 unread messages.",
@@ -112,17 +112,17 @@
         {
           "id": 0,
           "name": "Campfire Cooking Ideas",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         },
         {
           "id": 1,
           "name": "Chicken Schnitzel",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         },
         {
           "id": 2,
           "name": "Foolproof Macaron Recipes",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         }
       ],
       "greeting": "Hello, Tracey Obrien! You have 4 unread messages.",
@@ -144,17 +144,17 @@
         {
           "id": 0,
           "name": "meat cooking",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         },
         {
           "id": 1,
           "name": "Chicken Schnitzel",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         },
         {
           "id": 2,
           "name": "Parmesan Chicken Cutlets",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         }
       ],
       "greeting": "Hello, Tracey Obrien! You have 4 unread messages.",
@@ -176,17 +176,17 @@
         {
           "id": 0,
           "name": "Salmon Cakes",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         },
         {
           "id": 1,
           "name": "Easy Skillet Dinners",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         },
         {
           "id": 2,
           "name": "One-Pot Wonders",
-          "ingredients ": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
+          "ingredients": ["cup all-purpose flour", "cups dried breadcrumbs", "Flaky sea salt", "cup fresh parsley leaves", "tablespoons olive oil"]
         }
       ],
       "greeting": "Hello, Tracey Obrien! You have 4 unread messages.",
